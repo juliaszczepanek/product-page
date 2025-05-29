@@ -6,7 +6,7 @@ export default function NavBar({cart}) {
     const [open, setOpen] = useState(false);
   return (
 <header className="relative w-full bg-white shadow-sm">
-    <div className="w-full max-w-7xl mx-auto px-4 py-6 flex flex-wrap items-center justify-between gap-4 md:">
+    <div className="w-full max-w-7xl mx-auto px-4 py-6 flex flex-wrap items-center justify-between gap-4">
         <div className="flex items-center gap-2 text-green-700">
           <PetsIcon  sx={{fontSize: "2.5rem"}} className="mx-3"/>
           <span className="font-bold text-2xl">PetStore</span>
