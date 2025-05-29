@@ -22,8 +22,8 @@ A responsive product page built with React, Tailwind CSS, and Material UI.
 ### 1. Clone the repository or download as ZIP and unzip the folder.
 
 ```bash
-git clone https://github.com/your-username/petstore-product-page.git
-cd petstore-product-page
+git clone https://github.com/juliaszczepanek/product-page
+cd product-page
 ```
 
 ### 2. Install dependencies
